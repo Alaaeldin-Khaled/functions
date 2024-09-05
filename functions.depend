@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1722792990 source:c:\users\jett\documents\c++ projects\functions\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"utilization.h"
+	"reverse_str.h"
+	"calculator.h"
+	"isPalindrome.h"
+	"set-powers.h"
+	"Q6-nth-prime.h"
+	"Q7-replace-str.h"
+
+1722619554 c:\users\jett\documents\c++ projects\functions\app.h
+	<iostream>
+
+1722700236 c:\users\jett\documents\c++ projects\functions\utilization.h
+	<iostream>
+
+1722701136 c:\users\jett\documents\c++ projects\functions\reverse_str.h
+
+1722703432 c:\users\jett\documents\c++ projects\functions\calculator.h
+	<iostream>
+
+1722704226 c:\users\jett\documents\c++ projects\functions\ispalindrome.h
+
+1722789386 c:\users\jett\documents\c++ projects\functions\set-powers.h
+
+1722791063 c:\users\jett\documents\c++ projects\functions\q6-nth-prime.h
+
+1722793178 c:\users\jett\documents\c++ projects\functions\q7-replace-str.h
+
